@@ -16,4 +16,4 @@ Incluye los siguientes apartados documentados en la Wiki:
 6. Árbol de priorización de atributos de calidad  
 
 ## Video de Justificación
-Enlace al video explicativo: 
+Enlace al video explicativo: https://drive.google.com/file/d/1jeir4DnMzEsE9rXyKw_amDRA_BDg-P34/view?usp=drivesdk 
